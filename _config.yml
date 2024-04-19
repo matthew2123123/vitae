@@ -22,14 +22,14 @@ website: github.io/sustain
 website_full: https://jekyllt.github.io/sustain
 github: trending
 twitter: twitter
-tel: +44 0000 000000
-tel_full: tel:+440000000000
-google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
+tel: +82 1040572420
+tel_full: tel:+82 1040572420
+google_maps: https://www.google.co.kr/maps/?hl=ko&entry=ttu
 address:
-  street: 44 Perth Street
-  postcode: EH3 5BL
-  city: Edinburgh
-  country: United Kingdom
+  street: 77 Cheongam Street
+  postcode: 37673
+  city: Pohang
+  country: South Korea
 google_analytics: UA-69300817-1
 
 # needed for travis-ci build
